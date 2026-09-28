@@ -1,0 +1,17 @@
+# Zależności do odtworzenia obliczeń VaR (praca magisterska, DJIA).
+# ZALECANE: po zbudowaniu działającego środowiska zastąp tę listę dokładnymi
+# wersjami, uruchamiając:  pip freeze > requirements.txt
+# Znane wersje użyte w pracy: arch==8.0.0, yfinance (0.2.x).
+ 
+numpy
+pandas
+scipy
+yfinance
+arch
+scikit-learn
+statsmodels
+joblib
+tqdm
+openpyxl
+matplotlib
+ 
